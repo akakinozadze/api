@@ -3,31 +3,36 @@
     "id": "1",
     "title": "Homemade crispy chilli oil",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/1.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/1.jpg",
+    "price": "15.50"
   },
   {
     "id": "2",
     "title": "Prawn and lemongrass hot and sour soup",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/2.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/2.jpg",
+    "price": "17.50"
   },
   {
     "id": "3",
     "title": "Steamed lap cheong with five treasure fried rice",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/3.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/3.jpg",
+    "price": "15"
   },
   {
     "id": "4",
     "title": "Jeremy Pang’s General Tso’s chicken",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/4.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/4.jpg",
+    "price": "10"
   },
   {
     "id": "5",
     "title": "MiMi Mei Fair’s ‘Hokkien’ noodles",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/5.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/5.jpg",
+    "price": "19"
   },
   {
     "id": "6",
@@ -39,109 +44,128 @@
     "id": "7",
     "title": "Wun’s kung pao chicken",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/7.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/7.jpg",
+    "price": "12"
   },
   {
     "id": "8",
     "title": "Crispy pork potsticker dumplings",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/8.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/8.jpg",
+    "price": "11"
   },
   {
     "id": "9",
     "title": "Hunan-style crispy mushroom noodle salad",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/9.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/9.jpg",
+    "price": "16"
   },
   {
     "id": "10",
     "title": "Black bean tofu and baby pak choi",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/10.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/10.jpg",
+    "price": "16"
   },
   {
     "id": "11",
     "title": "Hot and sour soup",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/11.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/11.jpg",
+    "price": "22"
   },
   {
     "id": "12",
     "title": "Vegan tofu stir-fry",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/12.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/12.jpg",
+    "price": "23"
   },
   {
     "id": "13",
     "title": "Vegetable and sweet chilli spring rolls",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/13.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/13.jpg",
+    "price": "20"
   },
   {
     "id": "14",
     "title": "Stir-fried beef in black bean sauce",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/14.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/14.jpg",
+    "price": "33"
   },
   {
     "id": "15",
     "title": "Leftover roast lamb stir-fry",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/15.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/15.jpg",
+    "price": "26"
   },
   {
     "id": "16",
     "title": "Caramelised apples with sesame",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/16.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/16.jpg",
+    "price": "36"
   },
   {
     "id": "17",
     "title": "Ken Hom’s crispy fish spring rolls",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/17.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/17.jpg",
+    "price": "46"
   },
   {
     "id": "18",
     "title": "Stuffed bitter melon with black bean sauce",
     "difficulty": "Medium",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/18.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/18.jpg",
+    "price": "66"
   },
   {
     "id": "19",
     "title": "Ken Hom’s steamed chicken with Chinese sausage",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/19.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/19.jpg",
+    "price": "56"
   },
   {
     "id": "20",
     "title": "Ken Hom’s chicken on crispy noodles",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/20.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/20.jpg",
+    "price": "76"
   },
   {
     "id": "21",
     "title": "Speedy chilli turkey stir-fry",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/21.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/21.jpg",
+    "price": "32"
   },
   {
     "id": "22",
     "title": "Kung pao cauliflower",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/22.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/22.jpg",
+    "price": "31"
+    
   },
   {
     "id": "23",
     "title": "Spicy prawn toasts",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/23.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/23.jpg",
+    "price": "41"
   },
   {
     "id": "24",
     "title": "Bang bang tofu salad",
     "difficulty": "Easy",
-    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/24.jpg"
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/24.jpg",
+    "price": "23"
   },
   {
     "id": "25",
